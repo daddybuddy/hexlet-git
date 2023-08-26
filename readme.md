@@ -1,2 +1,2 @@
-Hello, Hexlet! How are you?
-experiment with amend
+# Привет участникам экспедиции!
+Читайте правила ![Правила](/hexlet-git/rules/commits.md)
