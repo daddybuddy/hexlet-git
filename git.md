@@ -61,4 +61,9 @@
 22. Узнать местонахождение
     > git branch
     ![x](https://cdn2.hexlet.io/derivations/image/original/eyJpZCI6Ijk2ODU5NmM5ZWFmNTliOGNiNWMzOGY0ZmMyYWJkMTg2LmpwZyIsInN0b3JhZ2UiOiJjYWNoZSJ9?signature=76a289ba31298052e27e2f2de8c4ed2c233a3579b6a1a106c975a0903c4d5551)
-23. 
+23. Припрятать изменения
+    > - git stash - отправить
+    > - git stash pop - вернуть
+    ![x](https://cdn2.hexlet.io/derivations/image/original/eyJpZCI6IjM0MmM0NjRmYjc4ZmU1ZjUyMTUwYmMzY2ZmZGRhZDE1LmpwZyIsInN0b3JhZ2UiOiJjYWNoZSJ9?signature=29483c2c0c99501f6a25dc42e4560ee0828ca6d17c7adde8c51680fe234a808e)
+24. d
+25. 
