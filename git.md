@@ -41,7 +41,7 @@
     > - git log --oneline - сокращенный вывод
     > - git log --name-status
     > - git log --graph - в графах
-15. Изменения в коммитей
+15. Изменения в коммите
     > git show
 16. Кто менял файл
     > git blame
@@ -60,4 +60,5 @@
     > git checkout
 22. Узнать местонахождение
     > git branch
+    ![x](https://cdn2.hexlet.io/derivations/image/original/eyJpZCI6Ijk2ODU5NmM5ZWFmNTliOGNiNWMzOGY0ZmMyYWJkMTg2LmpwZyIsInN0b3JhZ2UiOiJjYWNoZSJ9?signature=76a289ba31298052e27e2f2de8c4ed2c233a3579b6a1a106c975a0903c4d5551)
 23. 
