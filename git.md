@@ -65,5 +65,3 @@
     > - git stash - отправить
     > - git stash pop - вернуть
     ![x](https://cdn2.hexlet.io/derivations/image/original/eyJpZCI6IjM0MmM0NjRmYjc4ZmU1ZjUyMTUwYmMzY2ZmZGRhZDE1LmpwZyIsInN0b3JhZ2UiOiJjYWNoZSJ9?signature=29483c2c0c99501f6a25dc42e4560ee0828ca6d17c7adde8c51680fe234a808e)
-24. d
-25. 
